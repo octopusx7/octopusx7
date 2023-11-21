@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saleh Abdullah 
-- 👀 I’m interested in Py / dart / js
-- 🌱 I’m currently learning js
+- 👀 I’m interested in Py
+- 🌱 I’m currently learning Machine learning
 
 
 <!---
